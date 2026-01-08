@@ -1,12 +1,12 @@
 
 import React from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Welcome from './components/Welcome';
-import TourCard from './components/TourCard';
-import Footer from './components/Footer';
-import ConsultationForm from './components/ConsultationForm';
-import { TOURS } from './constants';
+import Navbar from './components/Navbar.tsx';
+import Hero from './components/Hero.tsx';
+import Welcome from './components/Welcome.tsx';
+import TourCard from './components/TourCard.tsx';
+import Footer from './components/Footer.tsx';
+import ConsultationForm from './components/ConsultationForm.tsx';
+import { TOURS } from './constants.tsx';
 
 const App: React.FC = () => {
   return (

@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { GUIDE_PROFILE } from '../constants';
+import { GUIDE_PROFILE } from '../constants.tsx';
 
 const Welcome: React.FC = () => {
   return (

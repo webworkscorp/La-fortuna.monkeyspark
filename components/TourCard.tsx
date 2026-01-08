@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Tour } from '../types';
+import { Tour } from '../types.ts';
 
 interface Props {
   tour: Tour;
